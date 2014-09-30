@@ -1,0 +1,15 @@
+{
+    "a": "a string", 
+    "b": true,
+    "c": false,
+    "d": null,
+    "e": [ "an", "array", "of", 5, "values" ], 
+    "f": {
+        "g": "subhash", 
+        "h": { 
+           "i": "subsubhash",
+           "i2": "morehash"
+        },
+        "j": -2.153
+    }
+}
